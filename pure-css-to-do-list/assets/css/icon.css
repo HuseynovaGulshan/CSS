@@ -1,0 +1,16 @@
+.icon-square{
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  background-image: url('../icon/square-regular.svg');
+  display: inline-flex;
+  
+  
+}
+.icon-solid {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  background-image: url('../icon/square-check-solid.svg');
+  display: inline-flex;
+}

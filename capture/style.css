@@ -1,0 +1,50 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #FFF;
+  padding: 1px;
+  width: 15px;
+  gap:15px;
+  margin-left: 500px;
+  margin-top:200px;
+  
+}
+.grid-item {
+  background-color: rgb(145, 56, 145);
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  color:#FFF;
+}
+.items1 {
+  border: 4px solid orange;
+}
+
+.items2 {
+  border: 4px dashed orange;
+  
+}
+.items3 {
+  border: 4px dotted orange;
+  
+}
+.items4 {
+  border: 4px double orange;
+  
+}
+.items5 {
+  border: 4px groove orange;
+  
+}
+.items6 {
+  border: 4px ridge orange;
+  
+}
+.items7 {
+  border: 4px inset orange;
+  
+}
+.items8 {
+  border: 4px outset orange;
+  
+}

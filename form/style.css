@@ -1,0 +1,46 @@
+body {
+  background-color: rgba(108, 26, 185, 0.784);
+}
+*{
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.box{
+  background-color: #FFF;
+  width: 250px;
+  height: 280px;
+  margin-top:250px;
+  margin-left:550px;
+  
+}
+
+h1 {
+  text-align: center;
+}
+
+label,input,span{
+  margin-left:10px;
+}
+
+input~label {
+  margin-top: 12px;
+  display: inline-block;
+}
+
+span,b{
+  color:blue;
+}
+
+button {
+  background-color: rgba(108, 26, 185, 0.784);
+   color:#FFF;
+   width: 180px;
+   height: 25px;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+
+p{
+  text-align: center;
+}
